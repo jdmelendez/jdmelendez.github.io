@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "230f40a9586f26e17c6b6c7c5b3188ec",
+  "assets/AssetManifest.json": "d6a0f05d5297e7e19925f4e4ddb9fca4",
 "assets/assets/avatar/avatar1.png": "70b3294e9a1a5de2265a07221df5fefc",
 "assets/assets/avatar/avatar2_blanco.jpeg": "2beb16d1510e615f9ad978376b2e7f1a",
 "assets/assets/avatar/logo.png": "91056d55f07cf23120e7889718065ad5",
@@ -77,7 +77,6 @@ const RESOURCES = {
 "assets/assets/proyectos/smartBooking/14.jpg": "4ff9d1ace85c78aafb087e0a2d81dbbe",
 "assets/assets/proyectos/smartBooking/15.jpg": "c8b767819801315efe80fae3ed9c76ba",
 "assets/assets/proyectos/smartBooking/16.jpg": "4c11f32b1c71496d011d1f3d8fe9a45c",
-"assets/assets/proyectos/smartBooking/17.jpg": "4372920b867cf637665d2bd539ab6637",
 "assets/assets/proyectos/smartBooking/2.jpg": "ae6cda107fd18b8fe9c3ec1637de10be",
 "assets/assets/proyectos/smartBooking/3.jpg": "f5fe07652792f408b9f161ddad001b87",
 "assets/assets/proyectos/smartBooking/4.jpg": "d9b87fa3b611c101e556ba5235d3e082",
@@ -85,6 +84,7 @@ const RESOURCES = {
 "assets/assets/proyectos/smartBooking/6.jpg": "6d22994feede563e0eac2cc886777943",
 "assets/assets/proyectos/smartBooking/7.jpg": "da0ead62c086b51b262d816f228eeae0",
 "assets/assets/proyectos/smartBooking/8.jpg": "43f5c229211b4f1d9e9a305aefba610b",
+"assets/assets/proyectos/smartBooking/9.jpg": "4372920b867cf637665d2bd539ab6637",
 "assets/assets/proyectos/smartBooking/main.jpg": "a611d0e86db2d35c097a5cae03db05a6",
 "assets/assets/proyectos/smartRestaurant/1.jpg": "6515e11013d52df509d487c89f87e731",
 "assets/assets/proyectos/smartRestaurant/10.jpg": "85af8896ae2493b5c64a4a59bd10cbe9",
@@ -187,20 +187,15 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "48ce1bb8a42776caa951cb782d277730",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "d8e9b6203ce2657c991f0b339ccb3a6d",
 "assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
-"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
-"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
-"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
-"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "b37467abced1dcd9bceb9e108c8adec3",
-"/": "b37467abced1dcd9bceb9e108c8adec3",
-"main.dart.js": "d1d3c6e4d5b5396189657e48a2256b5a",
-"manifest.json": "9ec9e79ae0b4fbd4817a783a4b722c1c",
+"index.html": "7de9be296408a62018146dc09c4c88b5",
+"/": "7de9be296408a62018146dc09c4c88b5",
+"main.dart.js": "e8cb504dc997d029df9f434c5f83f71a",
+"manifest.json": "47c9e587487d9b6ae9a1dee24f5b6b2a",
 "version.json": "9b818ca9511483c901bed1545384376c"
 };
 
