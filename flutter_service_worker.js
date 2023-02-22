@@ -18,7 +18,7 @@ const RESOURCES = {
 "assets/assets/cursos/udemy.png": "1e387f37c71689e30ebd489db7e27b2e",
 "assets/assets/educacion/upv.png": "068a0a14dd4667cfb12387c72099a9a6",
 "assets/assets/empresas/casamediterranea.png": "4ede95034de27b58bdcc1005af0d7e14",
-"assets/assets/empresas/devoltec.png": "045869d20712e5f542c1304ade999586",
+"assets/assets/empresas/devoltec.png": "354ba5fec1ff8b118da74a498ca1e614",
 "assets/assets/empresas/discom.jpg": "61f70e9563fa2185105f302bea62846b",
 "assets/assets/empresas/grupocobra.png": "e1a3dc28a3bab7e79523a5b78c394123",
 "assets/assets/empresas/inypsa.jpg": "e701b736a99b98faf149d6c5ee226058",
@@ -197,10 +197,10 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "164981df571464a3a4bc1aef4c1466e4",
-"/": "164981df571464a3a4bc1aef4c1466e4",
-"main.dart.js": "d623a4f5e7f09f65427b1c3347ce40c9",
-"manifest.json": "d8fe34f7ae4c072a77b924e01dac8a50",
+"index.html": "b37467abced1dcd9bceb9e108c8adec3",
+"/": "b37467abced1dcd9bceb9e108c8adec3",
+"main.dart.js": "d1d3c6e4d5b5396189657e48a2256b5a",
+"manifest.json": "9ec9e79ae0b4fbd4817a783a4b722c1c",
 "version.json": "9b818ca9511483c901bed1545384376c"
 };
 
